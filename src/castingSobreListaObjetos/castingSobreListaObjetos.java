@@ -9,7 +9,7 @@ package castingSobreListaObjetos;
  *
  * @author datasoft-edgardo
  */
-public class JavaApplication5 {
+public class castingSobreListaObjetos {
 
     /**
      * @param args the command line arguments
